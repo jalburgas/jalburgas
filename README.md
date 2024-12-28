@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ bootstrap c cplusplus css3 git html5 java javascript linux mysql nodejs python react tailwind 
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/user-attachments/assets/f495c9bd-88a2-4983-a821-0a9db071e071)
 
