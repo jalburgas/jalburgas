@@ -37,7 +37,7 @@ Soy un apasionado desarrollador de software con experiencia en PHP, JavaScript, 
 
 ### Habilidades
 -  **PHP**: Experiencia en desarrollo backend con PHP, creando aplicaciones web dinámicas y seguras.
--  **JavaScript**: Desarrollo de interfaces interactivas y dinámicas utilizando JavaScript y frameworks modernos.
+-  **JavaScript**: Desarrollo de interfaces interactivas y dinámicas utilizando JavaScript .
 - **SQL**: Habilidades en gestión y manipulación de bases de datos, escribiendo consultas complejas y optimizadas.
   
 
