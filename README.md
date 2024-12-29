@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 Soy un apasionado desarrollador de software con experiencia en PHP, JavaScript, SQL y diseño de interfaces de usuario. Me encanta crear soluciones eficientes y estéticamente agradables. Aquí podrás ver algunos de mis proyectos y habilidades.
 
 ### Habilidades
-- ![PHP](https://via.placeholder.com/80) **PHP**: Experiencia en desarrollo backend con PHP, creando aplicaciones web dinámicas y seguras.
-- ![JavaScript](https://via.placeholder.com/80) **JavaScript**: Desarrollo de interfaces interactivas y dinámicas utilizando JavaScript y frameworks modernos.
-- ![SQL](https://via.placeholder.com/80) **SQL**: Habilidades en gestión y manipulación de bases de datos, escribiendo consultas complejas y optimizadas.
+-  **PHP**: Experiencia en desarrollo backend con PHP, creando aplicaciones web dinámicas y seguras.
+-  **JavaScript**: Desarrollo de interfaces interactivas y dinámicas utilizando JavaScript y frameworks modernos.
+- **SQL**: Habilidades en gestión y manipulación de bases de datos, escribiendo consultas complejas y optimizadas.
 - 
 
 
