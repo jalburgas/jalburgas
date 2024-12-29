@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-![20048676-104105416484_1-s5-v1](https://github.com/user-attachments/assets/1e59f401-137d-429f-b5de-d5d5606b2329)
+
 
 
 ## Desarrollador PHP, JavaScript, SQL 
