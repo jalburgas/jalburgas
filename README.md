@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## Desarrollador PHP, JavaScript, SQL 
 
 ### Sobre Mí
-Soy un apasionado desarrollador de software con experiencia en PHP, JavaScript, SQL . Me encanta crear soluciones eficientes y estéticamente agradables. Aquí podrás ver algunos de mis proyectos y habilidades.
+Soy un apasionado desarrollador de software con experiencia en PHP, JavaScript, SQL . Me encanta crear soluciones eficientes . Aquí podrás ver algunos de mis proyectos y habilidades.
 
 ### Habilidades
 -  **PHP**: Experiencia en desarrollo backend con PHP, creando aplicaciones web dinámicas y seguras.
