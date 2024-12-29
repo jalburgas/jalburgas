@@ -25,6 +25,31 @@ Here are some ideas to get you started:
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/user-attachments/assets/f495c9bd-88a2-4983-a821-0a9db071e071)
 
+# ¡Hola, soy [Tu Nombre]!
+
+![Perfil](https://via.placeholder.com/150) 
+
+## Desarrollador PHP, JavaScript, SQL con Diseño UI
+
+### Sobre Mí
+Soy un apasionado desarrollador de software con experiencia en PHP, JavaScript, SQL y diseño de interfaces de usuario. Me encanta crear soluciones eficientes y estéticamente agradables. Aquí podrás ver algunos de mis proyectos y habilidades.
+
+### Habilidades
+- ![PHP](https://via.placeholder.com/80) **PHP**: Experiencia en desarrollo backend con PHP, creando aplicaciones web dinámicas y seguras.
+- ![JavaScript](https://via.placeholder.com/80) **JavaScript**: Desarrollo de interfaces interactivas y dinámicas utilizando JavaScript y frameworks modernos.
+- ![SQL](https://via.placeholder.com/80) **SQL**: Habilidades en gestión y manipulación de bases de datos, escribiendo consultas complejas y optimizadas.
+- ![Diseño UI](https://via.placeholder.com/80) **Diseño UI**: Diseño de interfaces de usuario intuitivas y atractivas, mejorando la experiencia del usuario.
+
+### Proyectos Destacados
+1. [Proyecto 1](#)
+2. [Proyecto 2](#)
+3. [Proyecto 3](#)
+
+### Conéctate Conmigo
+- [GitHub](https://github.com/tu_usuario)
+- [LinkedIn](https://linkedin.com/in/tu_usuario)
+
+
 
 
 
