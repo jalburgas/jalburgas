@@ -38,7 +38,7 @@ Soy un apasionado desarrollador de software con experiencia en PHP, JavaScript, 
 - ![PHP](https://via.placeholder.com/80) **PHP**: Experiencia en desarrollo backend con PHP, creando aplicaciones web dinámicas y seguras.
 - ![JavaScript](https://via.placeholder.com/80) **JavaScript**: Desarrollo de interfaces interactivas y dinámicas utilizando JavaScript y frameworks modernos.
 - ![SQL](https://via.placeholder.com/80) **SQL**: Habilidades en gestión y manipulación de bases de datos, escribiendo consultas complejas y optimizadas.
-- ![Diseño UI](https://via.placeholder.com/80) **Diseño UI**: Diseño de interfaces de usuario intuitivas y atractivas, mejorando la experiencia del usuario.
+- 
 
 
 
